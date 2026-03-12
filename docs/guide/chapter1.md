@@ -44,7 +44,7 @@ LangChain 从 1.0 之后被拆成了三层：
 | `langchain`        | 高级工程组件（Chains / Parsers / Memory） |
 | `langchain_openai` | 第三方模型适配                            |
 
-LangChain 的三层架构可以直观地理解为：langchain-core是地基和规则，langchain是用地基上的标准构件搭建好的功能房间，而 langchain_openai等集成包则是连接外部服务的门窗和管线。
+LangChain 的三层架构可以直观地理解为：langchain-core是地基和规则，langchain是用地基上的标准构件搭建好的功能房间，而 langchain-openai等集成包则是连接外部服务的门窗和管线。
 
 💡 为何要这样分层？
 这种架构的核心优势在于关注点分离和生态系统的健康发展。
