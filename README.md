@@ -83,7 +83,7 @@
 <div align="left">
 
 <a href="https://github.com/datawhalechina/easy-langent/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=datawhalechina/easy-langent" />
+  <img src="https://contrib.rocks/image?repo=datawhalechina/easy-langent&v=1" />
 </a>
 
 </div>
